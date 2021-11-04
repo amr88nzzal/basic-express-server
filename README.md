@@ -7,7 +7,7 @@
 
 * [Github actions](https://github.com/amr88nzzal/basic-express-server/actions)
 
-* [Github pull request](https://github.com/amr88nzzal/basic-express-server/pulls)
+* [Github pull request](https://github.com/amr88nzzal/basic-express-server/pull/2)
 
 ## Dependencies:
 - dotenv
